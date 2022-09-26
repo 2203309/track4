@@ -1,4 +1,3 @@
-
 import sys
 import time
 import lib_book as lb203309/test$ git push https://$(cat ~/personalToken.txt)@github.com/ashleylinghq/test.git
@@ -10,4 +9,4 @@ Counting objects: 100% (4/4), done.
 
 
 print("Good day & Hello Ashley")
-lb.types("Electronics")
+lb.types("Electrial")
